@@ -93,7 +93,7 @@ open up localhost:
 - Pinecone
 
 **Arijeet Dutta**
-Engineer
+
 Email : arijeetdutta501@gmail.com
 [LinkedIn](https://www.linkedin.com/in/arijeetd/)
 
