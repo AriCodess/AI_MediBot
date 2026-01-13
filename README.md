@@ -1,6 +1,6 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# AI-MediBot
 
-# How to run?
+# 🚀 How to run?
 ### STEPS:
 
 Clone the repository
@@ -49,7 +49,7 @@ open up localhost:
 ```
 
 
-### Project Structure
+### 📂 Project Structure
 
 ```
 .
@@ -84,13 +84,18 @@ open up localhost:
         └── cicd.yaml               # CI/CD workflow
 ```
 
-### Techstack Used:
+### 🛠️ Techstack Used:
 
 - Python
 - LangChain
 - Flask
 - GPT
 - Pinecone
+
+**Arijeet Dutta**
+Engineer
+Email : arijeetdutta501@gmail.com
+[LinkedIn](https://www.linkedin.com/in/arijeetd/)
 
 
 
